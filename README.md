@@ -4,13 +4,13 @@
 ### Portfolio Highlights 
 All projects listed here have their own dedicated repositories. Unauthorized cloning, modification, misuse, or redistribution of code and project files is strictly prohibited.
 
-**SRM UNIGRAM** — A Social Media Platform for SRM Students & Faculty
+- **SRM UNIGRAM** — A Social Media Platform for SRM Students & Faculty
 https://srmunigram.netlify.app
 
-**Pasheon** — Fashion e-commerce Website
+- **Pasheon** — Fashion e-commerce Website
 www.pasheon.com
 
-**CapsuleX** — The Anonymous Messaging Platform
+- **CapsuleX** — The Anonymous Messaging Platform
 https://capsule-x.netlify.app
 
 ### Skills
