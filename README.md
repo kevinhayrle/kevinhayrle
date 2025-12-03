@@ -12,7 +12,7 @@ www.pasheon.com
 - **CapsuleX** — The Anonymous Messaging Platform
 https://capsule-x.netlify.app
 
-All projects listed here have their own dedicated repositories. Unauthorized cloning, modification, misuse, or redistribution of code and project files is strictly prohibited.
+Note: All projects listed here have their own dedicated repositories. Unauthorized cloning, modification, misuse, or redistribution of code and project files is strictly prohibited.
 
 # Skills
 
