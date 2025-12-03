@@ -1,3 +1,5 @@
+## SOFTWARE ENGINEER (Specialized in Full-Stack Development)
+
 # Executive Summary
 **Built three end-to-end applications within three months — a messaging platform, a university-focused social media and an e-commerce website that increased conversions by 70%. Full stack expertise in React.js, Node.js, and modern web technologies, complemented by strong database foundations to build data driven systems. As the founder of Cortex², I engineered every project with entrepreneurial vision and strategic planning that always stood out for profound quality and branding. I mentored several aspiring developers, guided them to production-ready proficiency. Known for adaptability, rapid learning, and hands-on execution. I design, develop, and deploy scalable full-stack systems that deliver reliable performance in dynamic environments.**
 
@@ -23,6 +25,11 @@ https://capsule-x.netlify.app
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+#Social Links
 
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinhayrle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinantonyyyy)
 
 Note: All the non-coding content in this profile, including the executive summary, headline, captions, tagline, and descriptions, and README in all the repositories has been solely crafted by me, without AI assistance.
