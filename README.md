@@ -5,16 +5,12 @@
 **SRM UNIGRAM** — A Social Media Platform for SRM Students & Faculty
 https://srmunigram.netlify.app
 
-
-**Pasheon**
-
-Fashion e-commerce Website
+**Pasheon** — Fashion e-commerce Website
 www.pasheon.com
 
-
-**CapsuleX**
-
-The Anonymous Messaging Platform
+**CapsuleX** — The Anonymous Messaging Platform
 https://capsule-x.netlify.app
+
+---
 
 Note: All the non-coding content in this profile, including the executive summary, headline, captions, tagline, and descriptions, and README in all the repositories has been solely crafted by me, without AI assistance.
