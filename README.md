@@ -12,7 +12,7 @@ www.pasheon.com
 - **CapsuleX** — The Anonymous Messaging Platform
 https://capsule-x.netlify.app
 
-Note: All projects listed here have their own dedicated repositories. Unauthorized cloning, modification, misuse, or redistribution of code and project files is strictly prohibited.
+**Note:** All projects listed here have their own dedicated repositories. Unauthorized cloning, modification, misuse, or redistribution of code and project files is strictly prohibited.
 
 # Skills
 
@@ -30,4 +30,4 @@ Note: All projects listed here have their own dedicated repositories. Unauthoriz
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinhayrle)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinantonyyyy)
 
-Note: All the non-coding content in this profile, including the executive summary, headline, captions, tagline, and descriptions, and README in all the repositories has been solely crafted by me, without AI assistance.
+**Note:** All the non-coding content in this profile, including the executive summary, headline, captions, tagline, and descriptions, and README in all the repositories has been solely crafted by me, without AI assistance.
