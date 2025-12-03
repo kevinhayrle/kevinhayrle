@@ -12,6 +12,12 @@ www.pasheon.com
 **CapsuleX** — The Anonymous Messaging Platform
 https://capsule-x.netlify.app
 
----
+# Skills
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 Note: All the non-coding content in this profile, including the executive summary, headline, captions, tagline, and descriptions, and README in all the repositories has been solely crafted by me, without AI assistance.
