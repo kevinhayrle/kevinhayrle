@@ -3,7 +3,6 @@
 ---
 
 **SRM UNIGRAM**
-
 A Social Media Platform for SRM Students & Faculty
 https://srmunigram.netlify.app
 
