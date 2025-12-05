@@ -3,7 +3,7 @@
 
 # Portfolio Highlights 
 
-- **SRM UNIGRAM** — A Social Media Platform for SRM Students & Faculty
+- **SRM UNIGRAM** — A Social Media Platform for SRM University Students & Faculty
 https://srmunigram.vercel.app
 
 - **Pasheon** — Fashion e-commerce Website
