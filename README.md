@@ -3,9 +3,9 @@
 
 # Portfolio Highlights 
 
-## E-Commerce Platforms
+## E-Commerce Platforms | Client Projects
 
-- **Mark Daniel Saddlery** — Luxury equestrian e-commerce Website
+- **Mark Daniel Saddlery** — Luxury Equestrian e-commerce Website
 www.markdanielsaddlery.com
 
 - **Anis Boutique** — Premium Boutique e-commerce Website
