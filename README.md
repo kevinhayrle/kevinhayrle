@@ -3,11 +3,21 @@
 
 # Portfolio Highlights 
 
-- **SRM UNIGRAM** — A Social Media Platform for SRM University Students & Faculty
-https://srmunigram.vercel.app
+## E-Commerce Platforms
+
+- **Mark Daniel Saddlery** — Luxury equestrian e-commerce Website
+www.markdanielsaddlery.com
+
+- **Anis Boutique** — Premium Boutique e-commerce Website
+www.anisboutique.in
 
 - **Pasheon** — Fashion e-commerce Website
 www.pasheon.com
+
+## Web Applications
+
+- **SRM UNIGRAM** — A Social Media Platform for SRM University Students & Faculty
+https://srmunigram.vercel.app
 
 - **CapsuleX** — The Anonymous Messaging Platform
 https://capsule-x.netlify.app
