@@ -1,6 +1,5 @@
 # Executive Summary
-**Former founder of Cortex Square, a client-services business where I managed domestic and international clients and coordinated project delivery across design, development and client priorities. Exceeded monthly revenue targets by 30-40% through strong client relationships. Seeking roles in business analysis, business and finance operations, or analytics.**
-
+**Former founder of Cortex Square, a client-services business where I managed domestic and international clients and coordinated project delivery across design, development and client priorities. Exceeded monthly revenue targets by 30-40% through strong client relationships.**
 **Reach me at kevinantonyoffice@gmail.com**
 
 # Portfolio Highlights 
