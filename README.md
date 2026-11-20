@@ -1,5 +1,7 @@
 # Executive Summary
-**I am a Full-Stack Developer with hands-on experience delivering international client projects, including high-performance e-commerce platforms that increased conversions by 80%. With deep expertise in React.js, Node.js, and modern web technologies, supported by strong database architecture foundations for building scalable, data-driven systems. When I was the founder of cortex², I engineered every project with entrepreneurial vision and strategic planning, consistently delivering exceptional quality and distinctive branding. I mentored several aspiring developers, guiding them to production-ready proficiency. Recognized for adaptability, rapid learning, and hands-on execution, I design, develop, and deploy scalable full-stack systems that deliver reliable performance in dynamic environments.**
+**Former founder of Cortex Square, a client-services business where I managed domestic and international clients and coordinated project delivery across design, development and client priorities. Exceeded monthly revenue targets by 30-40% through strong client relationships. Seeking roles in business analysis, business and finance operations, or analytics.**
+
+**Reach me at kevinantonyoffice@gmail.com**
 
 # Portfolio Highlights 
 
@@ -12,9 +14,14 @@ www.markdanielsaddlery.com
 www.anisboutique.in
 
 - **Pasheon** — Fashion e-commerce Website
-www.pasheon.com
+https://pasheon.netlify.app
 
-## Web Applications | Products
+## Mobile Applications | Product
+
+- **Moonhowl: Writing Community** — A community for writers, readers and storytellers to share, connect and grow together
+https://play.google.com/store/apps/details?id=com.moonhowl.app
+
+## Web Applications | Product
 
 - **SRM UNIGRAM** — A Social Media Platform for SRM University Students & Faculty
 https://srmunigram.vercel.app
@@ -33,8 +40,11 @@ https://capsule-x.netlify.app
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
